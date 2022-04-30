@@ -1,6 +1,5 @@
 # seleniumFramWork
 Selenium Framwork project using java , Maven , testNG , POM and DataDriven design patterns 
-i'm also using BDD
 
 #Teck Stack
 -java
